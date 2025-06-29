@@ -1,7 +1,7 @@
 # Termux Setup
 
-Color Theme: **Base16 Ashes Dark**
-Font: **FiraCode**
+- Color Theme: _**Base16 Ashes Dark**_
+- Font: _**FiraCode**_
 
 [**dot.files**](https://gitub.com/loldonut/dotfiles)
 
